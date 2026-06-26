@@ -1,0 +1,11 @@
+{
+  "name": "DATA ADHOC PEMILU 2029",
+  "short_name": "App_DataADHOC",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "icons": [
+    { "src": "icon-adhoc.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-adhoc.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
